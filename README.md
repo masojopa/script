@@ -1,0 +1,2 @@
+# script
+Bash Script practice
