@@ -28,4 +28,19 @@ WHY THE ./ BEFORE THE NAME OF THE SCRIPT ?
 	-We type the ./ caracters to tell $BASH that
 	 the command is in the working directory
 	 and not to look for it in the ones listed in
-	 $PATH.  
+	 $PATH.
+
+The Shebang (#!)
+	
+	-This #!/bin/bash must be the first line in a 
+	 script it contains the Shebang followed by 
+	 the $PATH to the interpreter(program) that will 
+	 interpret(run)the rest of the lines in the text 
+	 file.
+
+Formating (IMPORTANT)
+
+	-The Shebang must be in the very first line
+	 (line 2 won't do even if the first line is blank).
+	 There must be no spaces between the # and ! and
+	 the $PATH to the interpreter(program).
