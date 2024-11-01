@@ -1,5 +1,5 @@
 #Jorge_Collao
-#Larges Prime number up to agiven digit
+#Larges Prime number up to a given digit
 
 def exponent():
     
@@ -10,5 +10,6 @@ def exponent():
             #print (i%j)
             if (i%j)==0:
                  prime.append(i)
+
         print(prime)
 exponent()
