@@ -13,8 +13,8 @@ def factores(x):
 
 def main():
     y=int(input("Ingrese un Numero para calcular sus factores "))
-    factores(y)
-    print(y)
+    f=factores(y)
+    print(f)
 
 main()
 
