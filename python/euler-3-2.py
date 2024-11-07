@@ -20,7 +20,7 @@ def primo(y):
 
 def main():
 
-    lf=int(input("Ingrese un Numero para calcular sus factores "))
+    lf = int(input("Ingrese un Numero para calcular sus factores Primos,\n"))
     print(primo(factores(lf)))
 
 main()
