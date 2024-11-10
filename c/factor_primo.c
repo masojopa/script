@@ -4,7 +4,7 @@ int main(){
 
 
 	int x;
-	//int c;
+	int c;
 	int i=1;
 	int j=0;
         int y[5]={};
