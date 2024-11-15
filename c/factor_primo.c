@@ -7,7 +7,7 @@ int main(){
 	int c;
 	int i=1;
 	int j=0;
-        int y[5]={};
+        int y[50]={1};
 	int length=sizeof(y) / sizeof(y[0]);
 
 	printf("Please enter the value of x:");
